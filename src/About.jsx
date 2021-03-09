@@ -1,5 +1,5 @@
 import React from 'react';
-import img from "../src/Images/jay.jpg";
+import img from "../src/Images/amit.jpg";
 import { NavLink } from "react-router-dom"
 import Common from "./Common"
 
